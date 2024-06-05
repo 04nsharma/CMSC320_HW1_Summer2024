@@ -1,0 +1,6 @@
+I am interested in taking CMSC320 as I want to explore all areas of computer
+science in university before I decide which area I want to pursue. This course
+offers a comprehensive introduction to essential concepts and techniques in
+data science which are crucuial for tackling real world problems. By learning 
+these skills I hope to integrate them in my own personal projects and maybe 
+even pursue a career in data science in the future.
